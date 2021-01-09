@@ -1,0 +1,139 @@
+/* main style */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;  
+}
+
+body {
+    color: rgb(72, 73, 73); 
+    line-height: 1.2; 
+    font-family: 'Roboto', sans-serif; 
+    font-size: 1rem; 
+    /* overflow-x: hidden; */ 
+    /* font-weight: 400;
+    line-height: 1.5; */
+}
+
+/* h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;  
+} */
+
+header h2 {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    font-size: 1.7rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+img {
+    display: block;
+}
+
+.img-fluid { 
+    max-width: 100%;
+    height: auto;
+}
+
+.img-category {
+    max-width: 100%;
+    min-width: 25vh; 
+}
+
+.slide2 {
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 10rem;
+    padding-left: 2rem;
+}
+
+.slide2 a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+/* hero */
+
+.hero {
+    min-height: 30vw;
+    background-image: url(../images/slider/banner-03.jpg);
+    background-size: cover;
+}
+
+/* border */
+
+.border {
+    border: 1px solid #dee2e6 !important;
+}
+
+
+/* footer */
+
+footer h6 {
+    margin-left: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+.text-uppercase {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    color: rgb(72, 73, 73);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;  
+}
+
+.list-unstyled {
+    list-style: none;
+}
+
+.list-unstyled li a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1em;
+    color:rgb(72, 73, 73);
+    font-weight: 300; 
+    
+}
+
+.list-unstyled a:hover {
+    color: #dcb14a;   
+}
+
+.social-icon li {
+    display: inline;
+    
+}
+
+.footer-link {
+    font-size: 0.85rem;
+    color: #fff;
+}
+
+.bg-dark {
+    background-color: #343a40 !important;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.border-top {
+    border-top: 1px solid #1d1d1d !important;
+}
+
+.template {
+    font-size: 0.8rem;
+}
+
+.text-center {
+    text-align: center !important;
+}

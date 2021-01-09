@@ -1,0 +1,152 @@
+.sidebar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: white;
+    display: grid; /* позволяет строить сетку */
+    grid-template-rows: auto 1fr auto;
+    box-shadow: var(--clr-red-dark);
+    transition: var(--transition);
+    transform: translate(200%);
+    border-left: 2px solid #ccc;
+    z-index: 100;
+    text-transform: uppercase;   
+}
+
+.cart-items {
+    display: grid;
+    margin: 0 auto;
+    height: auto;
+    gap: 2px;
+    grid-template-columns: repeat(40%, 1fr, 20%);
+    grid-template-rows: 25%, 1fr, 10%;
+    justify-content: center;
+    align-content: start;
+    
+}
+
+.cart-item {
+    display: grid;
+    padding-top: 2rem;
+}
+
+.picture {
+    grid-column: 1/2;
+    grid-row: 1/3;
+}
+
+.product-name {
+    grid-row: 3/4;
+    grid-column: 1/3;
+    font-weight: 600;
+    padding-top: 1.2rem;
+}
+
+.remove-btn {
+    grid-column: 3/4;
+    padding-left: 0.5rem;
+}
+
+.prices {
+    grid-row: 4/4;
+    grid-column: 1/3;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+}
+
+.close-btn {
+    font-size: 1.75rem;
+    background: transparent;
+    border-color: transparent;
+    color: var(--clr-red-dark);
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    color: var(--crl-red-light);
+    transform: rotate(360deg);
+}
+
+.sidebar .logo {
+    font-size: 1.4rem;
+    justify-self: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cart-item .picture {
+    max-width: 90px;
+    margin-right: 2rem;
+}
+
+.amount {
+    padding: 0.5rem 1rem;
+}
+
+.show-sidebar {
+    transform: translate(0);
+}
+
+@media (min-width: 675px) {
+    .sidebar{
+        width: 400px;
+    }
+}
+
+.fa-caret-left, .fa-caret-right {
+    padding-top: 0.5rem;
+}
+
+.count-items-in-cart {
+    padding: 0 0.2rem;
+
+}
+
+.count-like-me {
+    padding: 0 0.2rem; 
+}
+
+.notempty {
+    color: red;
+
+}
+
+.notempty::before {
+    margin-right: 1px;
+    content: '(';
+    color: red;
+}
+
+.notempty::after {
+    margin-left: 1px;
+    content: ')';
+    color: red;
+}
+
+.cart-footer {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 4rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+.cart-footer button{
+    font-size: 0.8rem;
+    line-height: 0.8;
+    height: 2rem;
+   
+    
+}

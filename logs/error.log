@@ -1,0 +1,275 @@
+[25-Oct-2020 09:56:08 Europe/Kiev] Hello Error
+[25-Oct-2020 09:58:28 Europe/Kiev] Hello Error
+[25-Oct-2020 09:58:44 Europe/Kiev] Hello Error
+[25-Oct-2020 09:58:46 Europe/Kiev] Hello Error
+[25-Oct-2020 12:05:55 Europe/Kiev] PHP Warning:  file_get_contents(C:\xampp\htdocs\shop.my/config/contacts.json): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\app\Controllers\TestController.php on line 13
+[25-Oct-2020 13:01:03 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[25-Oct-2020 13:01:03 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[25-Oct-2020 13:01:03 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 18
+[25-Oct-2020 13:01:03 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 22
+[25-Oct-2020 13:01:03 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 26
+[25-Oct-2020 15:53:20 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 15
+[25-Oct-2020 15:53:20 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 16
+[25-Oct-2020 15:53:20 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 17
+[25-Oct-2020 15:53:20 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 18
+[25-Oct-2020 15:53:20 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 19
+[25-Oct-2020 15:57:58 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 15
+[25-Oct-2020 15:57:58 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 16
+[25-Oct-2020 15:57:58 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 17
+[25-Oct-2020 15:57:58 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 18
+[25-Oct-2020 15:57:58 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 19
+[25-Oct-2020 15:58:11 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 15
+[25-Oct-2020 15:58:11 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 16
+[25-Oct-2020 15:58:11 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 17
+[25-Oct-2020 15:58:11 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 18
+[25-Oct-2020 15:58:11 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 19
+[25-Oct-2020 16:02:34 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 15
+[25-Oct-2020 16:02:34 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 16
+[25-Oct-2020 16:02:34 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 17
+[25-Oct-2020 16:02:34 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 18
+[25-Oct-2020 16:02:34 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 19
+[25-Oct-2020 16:03:05 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 15
+[25-Oct-2020 16:03:05 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 16
+[25-Oct-2020 16:03:05 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 17
+[25-Oct-2020 16:03:05 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 18
+[25-Oct-2020 16:03:05 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 19
+[27-Oct-2020 01:50:24 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[27-Oct-2020 01:50:24 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[27-Oct-2020 01:50:24 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[27-Oct-2020 01:50:24 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[27-Oct-2020 01:50:24 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[27-Oct-2020 13:36:10 Europe/Kiev] PHP Warning:  file_get_contents(C:\xampp\htdocs\shop.my/config/config.json): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\bootstrap\app.php on line 40
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[27-Oct-2020 14:03:03 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Undefined variable: formdata in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[27-Oct-2020 14:03:30 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[27-Oct-2020 14:04:48 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[27-Oct-2020 14:04:48 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[27-Oct-2020 14:04:48 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[27-Oct-2020 14:04:48 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[27-Oct-2020 14:04:48 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[28-Oct-2020 00:41:40 Europe/Kiev] PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[28-Oct-2020 00:41:41 Europe/Kiev] PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[28-Oct-2020 00:41:41 Europe/Kiev] PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[28-Oct-2020 00:41:41 Europe/Kiev] PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[28-Oct-2020 00:41:41 Europe/Kiev] PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[28-Oct-2020 00:43:51 Europe/Kiev] PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[28-Oct-2020 00:43:56 Europe/Kiev] PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[28-Oct-2020 00:43:59 Europe/Kiev] PHP Notice:  Array to string conversion in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[28-Oct-2020 00:51:13 Europe/Kiev] PHP Warning:  file_get_contents(C:\xampp\htdocs\shop.my/config/contacts.json): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 7
+[28-Oct-2020 00:51:58 Europe/Kiev] PHP Notice:  Undefined variable: readJSONFile in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 11
+[28-Oct-2020 00:52:08 Europe/Kiev] PHP Warning:  file_get_contents(C:\xampp\htdocs\shop.my/config/contacts.json): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 7
+[28-Oct-2020 01:23:42 Europe/Kiev] PHP Notice:  Undefined variable: _POST_ in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 11
+[28-Oct-2020 01:23:52 Europe/Kiev] PHP Notice:  Undefined variable: _POST_ in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 11
+[28-Oct-2020 01:27:42 Europe/Kiev] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 54
+[28-Oct-2020 01:32:41 Europe/Kiev] PHP Warning:  file_get_contents(C:\xampp\htdocs\shop.my/configs/configs.json): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\bootstrap\app.php on line 40
+[28-Oct-2020 14:24:47 Europe/Kiev] PHP Warning:  Use of undefined constant JS - assumed 'JS' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 23
+[28-Oct-2020 14:24:47 Europe/Kiev] PHP Warning:  require_once(JS/app.js): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 23
+[28-Oct-2020 14:24:47 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'JS/app.js' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 23
+[28-Oct-2020 14:46:17 Europe/Kiev] PHP Fatal error:  Uncaught Error: Call to undefined function msg_remove_queue() in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php:24
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\bootstrap\app.php(11): include_once()
+#1 C:\xampp\htdocs\shop.my\app\Controllers\HomeController.php(3): render('home/index.php')
+#2 C:\xampp\htdocs\shop.my\bootstrap\app.php(54): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:46:40 Europe/Kiev] PHP Warning:  require_once(&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/app.js&quot;&gt;&lt;/script&gt;): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:46:40 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required '&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/app.js&quot;&gt;&lt;/script&gt;' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:47:34 Europe/Kiev] PHP Warning:  require_once(&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/app.js&quot;&gt;&lt;/script&gt;): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:47:34 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required '&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/app.js&quot;&gt;&lt;/script&gt;' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:47:36 Europe/Kiev] PHP Warning:  require_once(&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/app.js&quot;&gt;&lt;/script&gt;): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:47:36 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required '&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/app.js&quot;&gt;&lt;/script&gt;' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:48:12 Europe/Kiev] PHP Warning:  require_once(/assets/js/app.js): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:48:12 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required '/assets/js/app.js' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:48:47 Europe/Kiev] PHP Warning:  require_once(C:\xampp\php\pear): failed to open stream: Permission denied in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 14:48:47 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required '' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\app\Views\layouts\site.php on line 24
+[28-Oct-2020 16:38:53 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 14
+[28-Oct-2020 16:38:53 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 15
+[28-Oct-2020 16:38:53 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 16
+[28-Oct-2020 16:38:53 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 17
+[28-Oct-2020 16:38:53 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 18
+[28-Oct-2020 16:39:35 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 14
+[28-Oct-2020 16:39:35 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 15
+[28-Oct-2020 16:39:35 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 16
+[28-Oct-2020 16:39:35 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 17
+[28-Oct-2020 16:39:35 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\contact\index.php on line 18
+[28-Oct-2020 16:39:56 Europe/Kiev] PHP Notice:  Undefined index: street in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[28-Oct-2020 16:39:56 Europe/Kiev] PHP Notice:  Undefined index: email in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[28-Oct-2020 16:39:56 Europe/Kiev] PHP Notice:  Undefined index: mobile in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[28-Oct-2020 16:39:56 Europe/Kiev] PHP Notice:  Undefined index: city in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[28-Oct-2020 16:39:56 Europe/Kiev] PHP Notice:  Undefined index: country in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[28-Oct-2020 18:20:41 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\shop.my\app\Views\layouts\partials\site\_footer.php:1) in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 34
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[28-Oct-2020 18:20:42 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\shop.my\app\Views\config\index.php:13) in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 34
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 11
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 12
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 13
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 14
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\shop.my\app\Views\config\index.php on line 15
+[28-Oct-2020 18:20:47 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\shop.my\app\Views\config\index.php:13) in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 34
+[28-Oct-2020 18:21:14 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\shop.my\app\Views\layouts\partials\site\_footer.php:1) in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 34
+[28-Oct-2020 18:21:21 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\shop.my\app\Views\layouts\partials\site\_footer.php:1) in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 34
+[28-Oct-2020 18:21:23 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\shop.my\app\Views\layouts\partials\site\_footer.php:1) in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 34
+[28-Oct-2020 18:22:22 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\shop.my\app\Views\layouts\partials\site\_footer.php:1) in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 34
+[28-Oct-2020 18:22:30 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\shop.my\app\Views\layouts\partials\site\_footer.php:1) in C:\xampp\htdocs\shop.my\app\Controllers\ConfigController.php on line 34
+[01-Nov-2020 10:30:10 Europe/Kiev] PHP Parse error:  syntax error, unexpected ''404'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in C:\xampp\htdocs\shop.my\config\routes.php on line 10
+[01-Nov-2020 10:30:43 Europe/Kiev] PHP Parse error:  syntax error, unexpected ''404'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in C:\xampp\htdocs\shop.my\config\routes.php on line 10
+[01-Nov-2020 12:07:18 Europe/Kiev] PHP Fatal error:  Uncaught Error: Call to undefined method AboutController::index() in C:\xampp\htdocs\shop.my\core\Router.php:25
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\bootstrap\app.php(45): require_once()
+#1 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 25
+[01-Nov-2020 12:12:50 Europe/Kiev] PHP Fatal error:  Uncaught Error: Call to undefined method AboutController::index() in C:\xampp\htdocs\shop.my\core\Router.php:25
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\bootstrap\app.php(45): require_once()
+#1 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 25
+[01-Nov-2020 12:12:51 Europe/Kiev] PHP Fatal error:  Uncaught Error: Call to undefined method AboutController::index() in C:\xampp\htdocs\shop.my\core\Router.php:25
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\bootstrap\app.php(45): require_once()
+#1 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 25
+[01-Nov-2020 12:12:53 Europe/Kiev] PHP Fatal error:  Uncaught Error: Call to undefined method AboutController::index() in C:\xampp\htdocs\shop.my\core\Router.php:25
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\bootstrap\app.php(45): require_once()
+#1 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 25
+[01-Nov-2020 12:13:14 Europe/Kiev] PHP Fatal error:  Uncaught Error: Call to undefined method AboutController::index() in C:\xampp\htdocs\shop.my\core\Router.php:25
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\bootstrap\app.php(45): require_once()
+#1 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 25
+[01-Nov-2020 12:42:48 Europe/Kiev] PHP Fatal error:  Uncaught Error: Class 'Admin\DashboardController' not found in C:\xampp\htdocs\shop.my\core\Router.php:24
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\bootstrap\app.php(45): require_once()
+#1 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 24
+[01-Nov-2020 12:56:20 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 40
+[01-Nov-2020 12:56:20 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 40
+[01-Nov-2020 12:57:36 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 40
+[01-Nov-2020 12:57:36 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 40
+[01-Nov-2020 12:58:55 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 40
+[01-Nov-2020 12:58:55 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 40
+[02-Nov-2020 00:10:55 Europe/Kiev] PHP Fatal error:  Uncaught Error: Class 'ContactController' not found in C:\xampp\htdocs\shop.my\core\Router.php:39
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\bootstrap\app.php(45): require_once()
+#1 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 39
+[02-Nov-2020 01:23:34 Europe/Kiev] PHP Notice:  Undefined variable: title in C:\xampp\htdocs\shop.my\app\Views\admin\index.php on line 1
+[02-Nov-2020 01:23:34 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:23:34 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:23:34 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:23:34 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:23:36 Europe/Kiev] PHP Notice:  Undefined variable: title in C:\xampp\htdocs\shop.my\app\Views\admin\index.php on line 1
+[02-Nov-2020 01:23:36 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:23:36 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:23:36 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:23:36 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:27:50 Europe/Kiev] PHP Notice:  Undefined variable: title in C:\xampp\htdocs\shop.my\app\Views\admin\index.php on line 1
+[02-Nov-2020 01:27:50 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:27:50 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:27:50 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:27:50 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:28:25 Europe/Kiev] PHP Notice:  Undefined variable: title in C:\xampp\htdocs\shop.my\app\Views\admin\index.php on line 1
+[02-Nov-2020 01:28:25 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:28:25 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:28:25 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:28:25 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:28:40 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:28:40 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:28:40 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:28:40 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:29:32 Europe/Kiev] PHP Notice:  Undefined variable: title in C:\xampp\htdocs\shop.my\app\Views\admin\index.php on line 1
+[02-Nov-2020 01:29:32 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:29:32 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:29:32 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:29:32 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:31:03 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:31:03 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:31:03 Europe/Kiev] PHP Warning:  include_once(C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 01:31:03 Europe/Kiev] PHP Warning:  include_once(): Failed opening 'C:\xampp\htdocs\shop.my/app/Controllers/ErrorController.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\shop.my\core\Router.php on line 48
+[02-Nov-2020 22:53:10 Europe/Kiev] PHP Fatal error:  Uncaught Error: Class 'ContactController' not found in C:\xampp\htdocs\shop.my\core\Router.php:33
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\core\Router.php(42): initController('C:\\xampp\\htdocs...', 'ContactControll...', 'index')
+#1 C:\xampp\htdocs\shop.my\bootstrap\app.php(44): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 33
+[04-Nov-2020 01:24:08 Europe/Kiev] PHP Fatal error:  Uncaught Error: Class 'ContactController' not found in C:\xampp\htdocs\shop.my\core\Router.php:33
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\core\Router.php(42): initController('C:\\xampp\\htdocs...', 'ContactControll...', 'index')
+#1 C:\xampp\htdocs\shop.my\bootstrap\app.php(44): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 33
+[04-Nov-2020 01:27:07 Europe/Kiev] PHP Fatal error:  Uncaught Error: Class 'ContactController' not found in C:\xampp\htdocs\shop.my\core\Router.php:33
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\core\Router.php(42): initController('C:\\xampp\\htdocs...', 'ContactControll...', 'index')
+#1 C:\xampp\htdocs\shop.my\bootstrap\app.php(44): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 33
+[04-Nov-2020 01:29:21 Europe/Kiev] PHP Fatal error:  Uncaught Error: Class 'ConfigController' not found in C:\xampp\htdocs\shop.my\core\Router.php:33
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\core\Router.php(42): initController('C:\\xampp\\htdocs...', 'ConfigControlle...', 'index')
+#1 C:\xampp\htdocs\shop.my\bootstrap\app.php(44): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 33
+[04-Nov-2020 01:31:16 Europe/Kiev] PHP Fatal error:  Uncaught Error: Class 'ContactController' not found in C:\xampp\htdocs\shop.my\core\Router.php:33
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\core\Router.php(42): initController('C:\\xampp\\htdocs...', 'ContactControll...', 'index')
+#1 C:\xampp\htdocs\shop.my\bootstrap\app.php(44): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 33
+[04-Nov-2020 01:32:13 Europe/Kiev] PHP Fatal error:  Uncaught Error: Class 'ContactController' not found in C:\xampp\htdocs\shop.my\core\Router.php:33
+Stack trace:
+#0 C:\xampp\htdocs\shop.my\core\Router.php(42): initController('C:\\xampp\\htdocs...', 'ContactControll...', 'index')
+#1 C:\xampp\htdocs\shop.my\bootstrap\app.php(44): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\shop.my\public\index.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\shop.my\core\Router.php on line 33
